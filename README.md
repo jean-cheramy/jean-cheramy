@@ -25,5 +25,5 @@ I'm currently diving deeper into:
 - Agents
 
 ## 📫 Let’s Connect
-- [LinkedIn]([https://www.linkedin.com/in/jean-cheramy-b85653168/])
+- [LinkedIn](https://www.linkedin.com/in/jean-cheramy-b85653168/)
 - [Email](cheramy.jean.emile@gmail.com)
