@@ -7,13 +7,13 @@ As a coach, I guide job seekers through the intricacies of data science (ML and 
 
 My background includes working on:
 - 🔎 **Semantic search engines** leveraging dense vector representations and similarity measures
-- **Keywords generation and deduplication** leveraging dense vector representations and similarity measures
+- **Keywords generation and deduplication** 
 - ☁️ **Cloud-native Python applications** for scalability
 - ⚙️ APIs, and deployment workflows
 
 ## 🧰 Tech Stack
-Python • Hugging Face • spaCy • scikit-learn  • NLP
-Docker • FastAPI • SQL • Git • AWS  • Linux    
+**Python** • Hugging Face • spaCy • scikit-learn  • NLP
+Docker • FastAPI • SQL • Git • **AWS**  • Linux    
 
 ## 🎓 Coaching Philosophy
 I believe learning by doing is the most effective path. My goal as a coach is to bridge the gap between theory and practice, encouraging students to build real-world solutions, write clean code, and understand the "why" behind the tools.
