@@ -7,7 +7,7 @@ As a coach, I guide job seekers through the intricacies of data science (ML and 
 
 My background includes working on:
 - 🔎 **Semantic search engines** leveraging dense vector representations and similarity measures
-- **Keywords generation and deduplication** 
+- Keywords generation and deduplication 
 - ☁️ **Cloud-native Python applications** for scalability
 - ⚙️ APIs, and deployment workflows
 
@@ -26,4 +26,4 @@ I'm currently diving deeper into:
 
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/jean-cheramy-b85653168/)
-- [Email](cheramy.jean.emile@gmail.com)
+- [Email](mailto:cheramy.jean.emile@gmail.com)
