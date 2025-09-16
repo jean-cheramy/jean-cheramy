@@ -12,7 +12,7 @@ My background includes working on:
 - ⚙️ APIs, and deployment workflows
 
 ## 🧰 Tech Stack
-**Python** • Hugging Face • spaCy • scikit-learn  • NLP • Docker • FastAPI • SQL • Git • **AWS**  • Linux    
+**Python** • Hugging Face • spaCy • scikit-learn  • NLP • Docker • FastAPI • SQL • Git • **AWS**  • Linux • LLM • RAG • Scraping • DevOPs • ML & DL
 
 ## 🎓 Coaching Philosophy
 I believe learning by doing is the most effective path. My goal as a coach is to bridge the gap between theory and practice, encouraging students to build real-world solutions, write clean code, and understand the "why" behind the tools.
