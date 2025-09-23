@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Jean
 
-I'm a Data Science and AI coach at **BeCode**, with hands-on experience as an **NLP engineer** and a deep curiosity for everything in the data domain — from classical statistics to cutting-edge LLMs.
+I'm a Data Science and AI coach at **BeCode**, with hands-on experience as an **NLP engineer** and a deep curiosity for everything in the data domain, from classical statistics to cutting-edge LLMs.
 
 ## 💼 What I Do
-As a coach, I guide job seekers through the intricacies of data science (ML and AI as well), analysis and engineering, while continuing to build and explore solutions myself. I’m also passionate about cloud-native development, CI/CD, and DevOps practices. I find it deeply satisfying to design robust, elegant workflows that make data solutions reproducible, scalable, and easy to deploy — turning prototypes into production-ready systems.
+As a coach, I guide job seekers through the intricacies of data science (ML and AI as well), analysis and engineering, while continuing to build and explore solutions myself. I’m also passionate about cloud-native development, CI/CD, and DevOps practices. I find it deeply satisfying to design robust, elegant workflows that make data solutions reproducible, scalable, and easy to deploy, turning prototypes into production-ready systems.
 
 My background includes working on:
 - 🔎 **Semantic search engines** leveraging dense vector representations and similarity measures
