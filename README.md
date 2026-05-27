@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Jean
 
-I'm a Data Science and AI coach at **BeCode**, with hands-on experience as an **NLP engineer** and a deep curiosity for everything in the data domain, from classical statistics to cutting-edge LLMs.
+I'm a **Data Scientist Consultant** at **Orange Business**, where I build production-grade AI systems. I recently shipped a RAG pipeline and I'm currently deep into agentic architectures: autonomous systems that reason, plan, and act.
 
 ## 💼 What I Do
-As a coach, I guide job seekers through the intricacies of data science (ML and AI as well), analysis and engineering, while continuing to build and explore solutions myself. I’m also passionate about cloud-native development, CI/CD, and DevOps practices. I find it deeply satisfying to design robust, elegant workflows that make data solutions reproducible, scalable, and easy to deploy, turning prototypes into production-ready systems.
 
-My background includes working on:
-- 🔎 **Semantic search engines** leveraging dense vector representations and similarity measures
-- Keywords generation and deduplication 
-- ☁️ **Cloud-native Python applications** for scalability
-- ⚙️ APIs, and deployment workflows
+At Orange Business, I work on applied AI projects at enterprise scale, from designing retrieval-augmented generation pipelines to building multi-step agent workflows. I care about turning research-grade AI into robust, deployable systems.
+
+My background includes:
+- 🤖 **Agentic systems** - LLM-driven workflows that reason and act autonomously
+- 🔎 **RAG pipelines** - semantic retrieval, vector stores, document processing
+- 🔤 **NLP at scale** - keyword generation, semantic search engines, dense vector representations
+- ☁️ **Cloud-native deployment** - Python apps, APIs, CI/CD on AWS and Azure
 
 ## 🧰 Tech Stack
 
@@ -43,20 +44,31 @@ My background includes working on:
 ![NLP](https://img.shields.io/badge/NLP-00599C?logo=python&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-6E4C13?logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-1E90FF?logo=semanticweb&logoColor=white)
+![Agents](https://img.shields.io/badge/Agents-8A2BE2?logo=openai&logoColor=white)
 ![ML & DL](https://img.shields.io/badge/ML%20%26%20DL-102230?logo=tensorflow&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-2E7D32?logo=chainlink&logoColor=white)
 
+## 🗺️ My Journey
+
+Before Orange Business, I spent **4 years as an NLP engineer at [Verbolia](https://www.verbolia.com/)**, a Belgian AI-SEO startup that auto-generates optimized landing pages for major e-commerce brands. That's where I built my foundation in semantic search, keyword systems, and production NLP pipelines.
+
+In between, I took a year off in **New Zealand** on a Working Holiday Visa, one of the better decisions I've made.
+
+I then joined **BeCode** as a **Data Science & AI coach**, guiding career changers through machine learning, cloud, and MLOps.
+
 ## 🎓 Coaching Philosophy
-I believe learning by doing is the most effective path. My goal as a coach is to bridge the gap between theory and practice, encouraging students to build real-world solutions, write clean code, and understand the "why" behind the tools.
+
+I believe learning by doing is the most effective path. My goal as a coach was to bridge the gap between theory and practice, encouraging students to build real-world solutions, write clean code, and understand the *why* behind the tools. That mindset still shapes how I work today.
 
 ## 🧠 Always Learning
-I'm currently diving deeper into:
-- Retrieval-augmented generation (RAG)
-- MLOps best practices
-- Agents
 
-## 📫 Let’s Connect
+Currently exploring:
+- **Agentic frameworks** - multi-agent orchestration, tool use, memory systems
+- **LLM evaluation** - measuring and improving agent reliability
+- **MLOps** - making AI systems production-ready at enterprise scale
+
+## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/jean-cheramy-b85653168/)
-- [Email](mailto:cheramy.jean.emile@gmail.com)
+
